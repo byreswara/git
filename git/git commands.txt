@@ -1,0 +1,127 @@
+git --version
+
+git status
+
+git init
+
+git config  --global  user.name   <"user name">
+
+git config  --global  user.email  <"email id">
+
+git add <file name>
+
+git commit -m  <file name>   <"">
+   
+               or
+
+git commit -m   <"">
+
+git remote add origin  <git hub path(link)>
+
+git remote remove origin
+    (to remove origin)
+
+git push  -u  origin master
+
+git log
+
+git --help
+
+delete remote files
+-----------------------------
+git rm <file name>
+
+git commit -m <".....">
+
+git push origin master
+
+How to cancel a local git commit
+-----------------------------------------------------
+git reset HEAD~ 
+
+create branch
+------------------------
+
+git branch <branch name>
+
+git checkout <branch name>
+
+git push -u <branch name >
+
+merge branch to master
+---------------------------------------
+
+git merge <branch name>
+
+git push -u origin master  
+
+delete branches
+-------------------------------
+
+git branch -d <branch name>
+     (to delete branch from local)
+
+git push origin --delete <branch name>
+    (to delete branch from  remote)
+
+tags
+------------
+
+git tag <tag name>
+      (git tag v1.0)
+
+git tag 
+  (to check)
+
+git tag -a v1.1 -m "...."
+    (to create annotated tags)
+
+git show v1.0
+
+git tag -l "v1.*"
+   (it disply all tags with v1.)
+
+git push origin v1.0
+  (push tags to remote)
+
+git push --tags
+  (push all tags to remote) 
+
+delete tags
+--------------------
+git tag -d v1.0
+           or
+git tag --delete v1.1 
+             or
+git tag -d v1.0 v1.1
+      (it delete tags from locally)
+
+git push origin -d v1.0
+      or
+git push origin --delete v1.1
+          or
+git push origin -d v1.0 v1.1
+     (it delete tags from remote)
+
+checkout tag
+--------------------
+(we cannot checkout tags in got)
+                 but
+(we can create a branch from a tag and checkout the branch)
+
+git checkout -b <branch name> <tag name >
+
+create a tag from some past commit
+-------------------------------------------------------
+git tag <tag name> <referense of commit>
+
+
+for make local central repository
+--------------------------------------------
+
+ git init --bare --shared
+
+git push <local path>  master
+          (master is branch name)
+
+ 
