@@ -4,11 +4,29 @@ git status
 
 git init
 
+{
 git config  --global  user.name   <"user name">
 
 git config  --global  user.email  <"email id">
 
+                          or
+
+ssh-keygen -t rsa
+(after this copy id_rsa pub key and paste in github)
+}
+
 git add <file name>
+
+{
+	
+(if we want to remove added file from index)
+-----------------------------------------------------------------
+git rm --cached   <file name>
+                  or 
+git rm -f   <file name>
+(it removes the file from local also)
+
+}
 
 git commit -m  <file name>   <"">
    
@@ -29,7 +47,9 @@ git --help
 
 delete remote files
 -----------------------------
-git rm <file name>
+git rm --cached <file name>
+	or
+git rm -f   <file name>
 
 git commit -m <".....">
 
