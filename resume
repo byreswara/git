@@ -1,0 +1,99 @@
+Ramesh K
+Mobile: +91-9916725955
+Email:	ramesshk.devops@gmail.com 
+Devops Engineer
+Job Objective
+
+Devops engineer with Linux system admin experience of 4.6 years . Working on 
+Jenkins, Docker, Ansible, Ant , Maven, GIT, GitHub, bash Shell Scripting,LINUX.
+Professional Experience
+
+Worked as Devops Engineer in Call2Action Communications  at Bangalore.  From July 2016 to August2018.
+Worked as System Admin in Balaji Developers at pune  Jan2014 to July 2016
+
+Experience Summary
+
+	I have 4+ years IT Experience in DevOps Engineer and Linux System Adminstrator Positions.
+	Extensively worked on Jenkins for continuous integration and for End to End automation deployments.
+	Hands on experience in version control tool like GIT.
+	Used Ansible as Infrastructure as a Code for automating the server management(installation pf packages/service etc).
+	Developed Ansible Playbooks files to deploy automated tasks to many servers at once such as installing Packages, start and stop the services and remove the packages
+	Good knowledge in creating packages like WAR, EAR, JAR using MAVEN build tool.
+	Hands on experience in setting up and configuring JENKINS Tool.
+	Hands on experience in automating build process using JENKINS Tool
+	created Jenkins job in DEV environment to test and automate the entire application build and delivery process (Tomcat Server).
+	As part of CI, Jenkins integrated required pom.xml/build.xml/build scripts file to generate the required artifacts after build.
+	Build integration was done by including the service hook to trigger Jenkins on every commit to GitHub repository.
+	Deploying the WAR files in Tomcat Server
+	Worked on installation of Docker , creation of custom Docker  images, tagging and pushing the images. 
+	Worked on creating the Docker containers  and linking Docker containers.
+	Setup/Managing Linux Servers on AWS ( EC2, EBS, ELB,  Security Groups and IAM).
+	Worked on Unix shell scripting.
+	Installation of NFS, SAMBA, FTP , Apache WebServer ,apache tomcat
+	Incidents handled : user addition,editing the sudoers file,LV extension ,pv and vg creation and extension ,lv creation ,creation of new filesystems , file permissions and ownerships ,scanning of newly added disks and luns , performance monitoring , hardening of newly built servers , ACL permissions , nfs servers ,shares and clients.
+
+
+Technical Skills
+Version Control			                :	GIT
+Build Tools			                               :	Maven
+Continuous Integration Tools	                 : 	Jenkins
+Application server		                                :	ApacheTomcat
+Code analysis tools	                                      	  :	SonarQube
+Operating Systems		                                :	Centos, LINUX (Red Hat)
+Scripting Languages		                                :	Shell Scripting, python scripting
+Container tools		  	                 :	Docker
+Cloud Environment		                                :	AWS
+Configuration tools		                                : 	Ansible
+Education	
+
+	Graduation B.Tech from JNTUA University in 2013.
+Project Summary
+Project 2
+Project	              :  RMCONNECT
+Client		               :  YESBANK
+Duration	               :  Jan 2017 to Aug2018.
+Team Size	               :  3
+Environment           	:  GIT, Maven, Shell script, Jenkins, Docker, Linux,AWS.
+Role		               :  DevOps Engineer. 
+
+Roles & Responsibilities:
+
+	Major responsibilities include design, ownership, and drive the DevOps process strategy and implementation and develop DevOps methodology and culture by setting up an environment with CI/CD and continuous monitoring.
+	Responsible for Design of different Release Environments for new projects.
+	Setup/Managing Linux Servers on Amazon ( EC2, EBS, ELB,  Security Groups and IAM).
+	Implementing a Continuous Delivery framework using Jenkins and Maven.
+	Setup Jenkins for continuous integration Build process.
+	Troubleshoot Build issues and coordinate with development team on resolving build issues.
+	Troubleshoot Application deployment issues by log verification.
+	Worked on building and configuration management, SCM strategies like branching, merging, and provided training to develop teams in  GIT and Branching strategies.
+	Automated Weekly releases with ANT/Maven scripting for Compiling Java Code, Debugging and Placing Builds into Nexus Repository.
+	Basic Knowledge on (AWS) infrastructure with automation and configuration management tool ansible.
+	Involved Deploy the Jar, War, Ear files in Apache Webserver Creating build environment like installing all the required software.
+	Worked on installation of Docker , creation of custom Docker  images, tagging and pushing the images. 
+
+
+
+Project 1
+Project		:  Voice Notification
+Client		:  NirmalBang
+Duration	:  July 2016 to Aug 2018
+Team Size	:  5
+Environment	:  Jenkins, Shell script, Linux
+
+Roles & Responsibilities:
+	Setup/Managing Linux Servers on Amazon ( EC2, EBS, ELB,  Security Groups and IAM)..
+	Incidents handled : user addition,editing the sudoers file,LV extension ,pv and vg creation and extension ,lv creation ,creation of new filesystems , file permissions and ownerships ,scanning of newly added disks and luns , performance monitoring , hardening of newly built servers , ACL permissions,nfs servers ,shares and clients.
+	Used Maven for building the artifacts and also administered the Maven Build scripts.
+	In Branching, Tagging of code delivery at required releases. Installing and configuring Git , Jenkins deployment servers.
+	Knowledge of developing the build management scripts and framework.
+	Involved in scheduling the automated build called Nightly Builds and Managing Daily Builds, Weekly Builds, Nightly Builds.
+	working proficiency in UNIX commands and VI editor
+	Users, File Permissions, ACL, Services & Process administration
+	File system, SWAP configurations
+	Worked on LVM, Software RAID Disk management . 
+	Installation of NFS, SAMBA, FTP , Apache,apache tomcat
+	Networking, iptables, ssh, TCP Wrappers
+	Job scheduling in crontab
+	Installation and configuration of  Nagios and NRPE.
+	Using NRPE we can  add  Instances/servers for Monitoring services like (httpd,nfs,disk space,sshd)
+	Working on ftp tool, cron and at job schedule tools, managing log files, daily management activities.
